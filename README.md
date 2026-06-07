@@ -12,4 +12,4 @@ Power BI Desktop · Power Query · DAX · Excel/CSV
 Dashboard Features
 Sales trend analysis · Regional & product breakdowns · KPI cards (Revenue, Units Sold, Growth Rate, Variance) · Interactive slicers for date, region, and category
 
-)
+ 
